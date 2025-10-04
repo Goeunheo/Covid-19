@@ -14,4 +14,5 @@ It focuses on analyzing epidemiology data (cases, deaths) and vaccination data, 
 - Perform exploratory data analysis (EDA)
 - Compare country-level trends in confirmed cases and deaths.
 - Practice SQL queries with epidemiology data stored in SQLite.
+- Handling and analyzing ~12M rows of epidemiological data
 - Currently working on exploring the correlation between vaccination and mortality.
